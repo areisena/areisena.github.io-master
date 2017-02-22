@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <title>Placeholder </title>
+</head>
+<body>
+
+  <header>
+    <h1>Awesome News</h1>
+    <h2>This is the coolest news.</h2>
+  </header>
+
+  <main>
+
+    <article>
+      <h2>Trump Impeached</h2>
+      <p> asdkofajpsodjfapodfj apdsifjapsfadspfja adipfj pad </p>
+
+    </article>
+
+  </main>
+
+
+
+  <footer>
+    <p>&copy; No one!</p>
+  </footer>
+</html>
